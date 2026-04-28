@@ -19,7 +19,7 @@ model.pkl file that contains the fitted parameters of our model.
 * `predict.py` --  A sample function to be deployed as a model. Uses `model.pkl`
 produced by `fit.py` to make predictions about petal width.
 
-## Instructions for Sessions
+## Instructions for Sessions....
 1. Click "Open Workbench".
 2. Launch a new Python session.
 3. Run `analysis.py` in the workbench.
